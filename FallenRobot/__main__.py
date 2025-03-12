@@ -376,8 +376,8 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/SecretVibesOfc"),
                     ],
                     [
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ɪʙᴇs🔞", url=f"https://t.me/+2o1vTH3XWv43OWU9"),
-                        InlineKeyboardButton(text="ᴍᴇᴅɪᴀ ᴀɴɢᴇʟ🔞", url=f"https://t.me/+9rg8DENaRZw5ODBl"),
+                        InlineKeyboardButton(text="𝘀𝗲𝗰𝗿𝗲𝘁 𝘃𝗶𝗯𝗲𝘀🔞", url=f"https://t.me/+62fcl2jc3GI0Yjll"),
+                        InlineKeyboardButton(text="𝘀𝗲𝗰𝗿𝗲𝘁 𝗹𝗼𝗻𝗲𝗹𝘆🔞", url=f"https://t.me/+pdeonCmuJgBiY2Zl"),
                     ],
                     [
                         InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ", callback_data="fallen_back"),
