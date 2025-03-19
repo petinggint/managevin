@@ -376,8 +376,8 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/SecretVibesOfc"),
                     ],
                     [
-                        InlineKeyboardButton(text="𝘀𝗲𝗰𝗿𝗲𝘁 𝘃𝗶𝗯𝗲𝘀🔞", url=f"https://t.me/+62fcl2jc3GI0Yjll"),
-                        InlineKeyboardButton(text="𝘀𝗲𝗰𝗿𝗲𝘁 𝗹𝗼𝗻𝗲𝗹𝘆🔞", url=f"https://t.me/+pdeonCmuJgBiY2Zl"),
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs🔞", url=f"https://t.me/+62fcl2jc3GI0Yjll"),
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ʟᴏɴᴇʟʏ🔞", url=f"https://t.me/+pdeonCmuJgBiY2Zl"),
                     ],
                     [
                         InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ", callback_data="fallen_back"),
@@ -419,9 +419,9 @@ def Source_about_callback(update: Update, context: CallbackContext):
             text=f"*» {BOT_NAME} ᴍᴜsɪᴄ ɢʀᴜᴘ ғɪᴛᴜʀ*"
             
 f"\n๏ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴀᴅᴀʟᴀʜ ʙᴇʙᴇʀᴀᴘᴀ ᴍᴏᴅᴜʟᴇ ᴘᴇʀɪɴᴛᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜʟᴀɪ ᴍᴜsɪᴄ / ᴠɪᴅᴇᴏ."
-f"\n\n/play ᴏʀ /vplay : ᴍᴏᴅᴜʟᴇ ɪɴɪ ʙᴇʀɢᴜɴᴀ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜᴛᴀʀ ʟᴀɢᴜ ᴅᴀɴ ᴠɪᴅᴇᴏ ᴅɪ ɢʀᴏᴜᴘ / ᴄʜᴀɴɴᴇʟ ᴀɴᴅᴀ."
-f"\n\n/playforce ᴏʀ /vplayforce : ᴍᴏᴅᴜʟᴇ ɪɴɪ ʙᴇʀғᴜɴɢsɪ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜʟᴀɪ ʟᴀɢᴜ ᴅᴀɴ ᴠɪᴅᴇᴏ ᴅɪ ᴘᴇʀᴀɴɢᴋᴀᴛ ᴀɴᴅᴀ."
-f"\n\n/cplay ᴏʀ /cvplay : ᴜɴᴛᴜᴋ ᴍᴇᴍᴜᴛᴀʀ ʟᴀɢᴜ / ᴠɪᴅᴇᴏ ᴅɪᴄʜᴀɴɴᴇʟ ʏᴀɴɢ ᴛᴇʀʜᴜʙᴜɴɢ.", 
+f"\n\n/play ᴏʀ /vplay : ᴄᴏʙᴀ ᴀᴊᴀ sᴇɴᴅɪʀɪ."
+f"\n\n/playforce ᴏʀ /vplayforce : ᴄᴏʙᴀ ᴀᴊᴀ sᴇɴᴅɪʀɪ."
+f"\n\n/cplay ᴏʀ /cvplay : ᴄᴏʙᴀ ᴀᴊᴀ sᴇɴᴅɪʀɪ.", 
             
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -688,7 +688,7 @@ def main():
                     [
                         [
                             InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/UcalMeVin"),
-                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ", url=f"https://t.me/+kUWAHj8kxs9kMzRl "),
+                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ", url=f"https://t.me/ShareMediaBokep "),
                         ],
                     ],
                 )
