@@ -14,7 +14,7 @@ class Config(object):
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://files.catbox.moe/175nkq.jpg"
+    START_IMG = "https://files.catbox.moe/zpzvgk.jpg"
 
     SUPPORT_CHAT = "InfoRobotCalvin"  # Your Telegram support group chat username where your users will go and bother you
 
