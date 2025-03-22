@@ -353,10 +353,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="ǫʀɪs💸", url=f"https://t.me/InfoRobotCalvin/554",
-                        ),
-                        InlineKeyboardButton(
-                            text="ᴅᴀɴᴀ💸", url=f"https://t.me/InfoRobotCalvin/225"
+                            text="ᴄᴀʟᴠɪɴ", url=f"https://t.me/ucalmevin",
                         ),
                     ],
                     [
@@ -373,12 +370,15 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/SecretVibesOfc"),
+                        InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/SECRETMGM"),
                     ],
                     [
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs🔞", url=f"https://t.me/+62fcl2jc3GI0Yjll"),
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ʟᴏɴᴇʟʏ🔞", url=f"https://t.me/+pdeonCmuJgBiY2Zl"),
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs", url=f"https://t.me/+qM6mpY-Qz7NmMDk9"),
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ʟᴏɴᴇʟʏ", url=f"https://t.me/+glOSAR5syghmYzJl"),
                     ],
+                    [
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴄʜᴀᴛ", url=f"https://t.me/+XFYuAXtiT-syYzVl"),
+                        InlineKeyboardButton(text="sʟᴏᴛ ɢᴀᴄᴏʀ", url=f"https://t.me/+hxgwBShOa5BhYWI1"),
                     [
                         InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ", callback_data="fallen_back"),
                     ],
@@ -416,12 +416,18 @@ def Source_about_callback(update: Update, context: CallbackContext):
         )
     elif query.data == "source_back":
         query.message.edit_text(
-            text=f"*» {BOT_NAME} ᴍᴜsɪᴄ ɢʀᴜᴘ ғɪᴛᴜʀ*"
+            text=f"*» {BOT_NAME} ᴍᴜsɪᴄ ɢʀᴜᴘ ғɪᴛᴜʀ*\n"
             
 f"\n๏ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴀᴅᴀʟᴀʜ ʙᴇʙᴇʀᴀᴘᴀ ᴍᴏᴅᴜʟᴇ ᴘᴇʀɪɴᴛᴀʜ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜʟᴀɪ ᴍᴜsɪᴄ / ᴠɪᴅᴇᴏ."
-f"\n\n/play ᴏʀ /vplay : ᴄᴏʙᴀ ᴀᴊᴀ sᴇɴᴅɪʀɪ."
-f"\n\n/playforce ᴏʀ /vplayforce : ᴄᴏʙᴀ ᴀᴊᴀ sᴇɴᴅɪʀɪ."
-f"\n\n/cplay ᴏʀ /cvplay : ᴄᴏʙᴀ ᴀᴊᴀ sᴇɴᴅɪʀɪ.", 
+f"\n\n๏ /play ᴏʀ /vplay : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n๏ /Pause : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n๏ /resume : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n๏ /skip : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n๏ /end : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n\n๏ /ping : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n๏ /sudolist : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n\n๏ /song : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ."
+f"\n๏ /search : ᴄᴏʙᴀ ᴀᴇ sᴇɴᴅɪʀɪ.", 
             
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
@@ -688,7 +694,13 @@ def main():
                     [
                         [
                             InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/UcalMeVin"),
-                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ", url=f"https://t.me/ShareMediaBokep "),
+                        ],
+                        [
+                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ", url=f"https://t.me/+GO-VHsJeKr9lN2Fl"),
+                        ],
+                        [
+                            InlineKeyboardButton(text="ᴠᴠɪᴘ ɪɴᴅᴏ", url=f"https://t.me/+gpxLhsapjvYzNjE5"),
+                            InlineKeyboardButton(text="ᴠᴠɪᴘ ʜɪᴊᴀʙ", url=f"https://t.me/+t7f1NAKcF4owOTBl"),
                         ],
                     ],
                 )
