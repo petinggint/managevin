@@ -1,7 +1,7 @@
 {
-      "name": "ᴄᴀʟᴠɪɴ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ",
+      "name": "ᴛʀᴜᴍ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ",
       "description": "ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʀᴏʙᴏᴛ.",
-      "logo": "https://files.catbox.moe/175nkq.jpg",
+      "logo": "https://files.catbox.moe/88u4eu.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -61,17 +61,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5510539512"
+         "value": ""
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://files.catbox.moe/pp9026.jpg"
+         "value": "https://files.catbox.moe/88u4eu.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "InfoRobotCalvin"
+         "value": ""
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
