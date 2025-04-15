@@ -17,7 +17,7 @@ async def repo(_, message: Message):
 
 ɪ ᴀᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME})**
 
-**» ᴅᴇᴠᴇʟᴏᴘᴇʀ :** ᴄᴀʟᴠɪɴ 
+**» ᴅᴇᴠᴇʟᴏᴘᴇʀ :** ᴛʀᴜᴍ 
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -25,7 +25,7 @@ async def repo(_, message: Message):
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
                         "sᴜᴘᴘᴏʀᴛ",
-                        url="https://t.me/InfoMusicCalvin",
+                        url="https://t.me/+hnWGxsa2a65lZmZl",
                     ),
                 ]
             ]
