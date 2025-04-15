@@ -14,23 +14,23 @@ class Config(object):
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://files.catbox.moe/zpzvgk.jpg"
+    START_IMG = "https://files.catbox.moe/88u4eu.jpg"
 
-    SUPPORT_CHAT = "InfoRobotCalvin"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = ""  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 482489951  # User id of your telegram account (Must be integer)
+    OWNER_ID = 7834641788  # User id of your telegram account (Must be integer)
 
     # Optional fields
-    BL_CHATS = [482489951]  # List of groups that you want blacklisted.
-    DRAGONS = [482489951]  # User id of sudo users
-    DEV_USERS = [482489951]  # User id of dev users
-    DEMONS = [482489951]  # User id of support users
-    TIGERS = [482489951]  # User id of tiger users
-    WOLVES = [482489951]  # User id of whitelist users
+    BL_CHATS = [7834641788]  # List of groups that you want blacklisted.
+    DRAGONS = [7834641788]  # User id of sudo users
+    DEV_USERS = [7834641788]  # User id of dev users
+    DEMONS = [7834641788]  # User id of support users
+    TIGERS = [7834641788]  # User id of tiger users
+    WOLVES = [7834641788]  # User id of whitelist users
 
     ALLOW_CHATS = True
     ALLOW_EXCL = True
