@@ -78,7 +78,7 @@ PM_START_TEXT = """
 *๏ ɢᴀ ᴀᴅᴀ ʏᴀɴɢ sᴘᴇsɪᴀʟ sᴀᴍᴀ ᴀᴊᴀ ᴋᴇᴋ ʙᴏᴛ ᴍᴜsɪᴄ ʟᴀᴇɴ*
 *๏ ʙᴏᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ᴅᴀɴ ᴍᴇᴍᴜᴛᴀʀ ᴍᴜꜱɪᴄ ᴅɪɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴇʀʙᴀɢᴀɪ ꜰɪᴛᴜʀ*
 ─────────────────
-*๏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👑: @UcalMeVin*
+*๏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👑: @OwnerTrum*
 ─────────────────
 *๏ ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇᴛᴀʜᴜɪ ᴍᴏᴅᴜʟ ᴅᴀɴ ᴄᴏᴍᴍᴀɴᴅꜱ ⚠️*
 """
@@ -90,12 +90,11 @@ buttons = [
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",),
     ],
     [
-        InlineKeyboardButton(text="ᴅᴏɴᴀᴛɪᴏɴ 💰", callback_data="fallen_"),
         InlineKeyboardButton(text="ᴘᴇʀɪɴᴛᴀʜ ⁉️", callback_data="source_"),
+        InlineKeyboardButton(text="ᴅᴏɴᴀsɪ 💸", callback_data="fallen_"),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 📩", url=f"https://t.me/InfoRobotCalvin"),
-        InlineKeyboardButton(text="ɢʀᴜᴘ ᴄʜᴀɴɴᴇʟ 💈", callback_data="fallen_support"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 📩", url=f"https://t.me/+hnWGxsa2a65lZmZl"),
     ],
 ]
 
@@ -210,7 +209,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             START_IMG,
-            caption="ᴄᴀʟᴠɪɴ ʙᴏᴛ ᴀᴋᴛɪᴘ🔥 !\n<b>ᴀᴋᴛɪᴘ ᴅᴀʀɪ​:</b> <code>{}</code>".format(
+            caption="ᴛʀᴜᴍ ʙᴏᴛ ᴀᴋᴛɪᴘ🔥 !\n<b>ᴀᴋᴛɪᴘ ᴅᴀʀɪ​:</b> <code>{}</code>".format(
                 uptime
                 
             ),
@@ -353,7 +352,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="ᴄᴀʟᴠɪɴ", url=f"https://t.me/ucalmevin",
+                            text="ᴛʀᴜᴍ", url=f"https://t.me/ownertrum",
                         ),
                     ],
                     [
@@ -401,7 +400,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=f"""*๏ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴀᴅᴀʟᴀʜ ʙᴇʙᴇʀᴀᴘᴀ ᴍᴏᴅᴜʟᴇ / ᴘᴇʀɪɴᴛᴀʜ ʙᴏᴛ ᴍᴜsɪᴄ + ᴍᴀɴᴀɢᴇ ᴄᴀʟᴠɪɴ.*""",
+            text=f"""*๏ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴀᴅᴀʟᴀʜ ʙᴇʙᴇʀᴀᴘᴀ ᴍᴏᴅᴜʟᴇ / ᴘᴇʀɪɴᴛᴀʜ ʙᴏᴛ ᴍᴜsɪᴄ + ᴍᴀɴᴀɢᴇ ᴛʀᴜᴍ.*""",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
@@ -694,14 +693,13 @@ def main():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/UcalMeVin"),
+                            InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/ownertrum"),
                         ],
                         [
-                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ", url=f"https://t.me/+GO-VHsJeKr9lN2Fl"),
+                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ", url=f"https://t.me/+hnWGxsa2a65lZmZl"),
                         ],
                         [
-                            InlineKeyboardButton(text="ᴠᴠɪᴘ ɪɴᴅᴏ", url=f"https://t.me/+gpxLhsapjvYzNjE5"),
-                            InlineKeyboardButton(text="ᴠᴠɪᴘ ʜɪᴊᴀʙ", url=f"https://t.me/+t7f1NAKcF4owOTBl"),
+                            InlineKeyboardButton(text="ᴠᴠɪᴘ ʙᴏᴋᴇᴘ", url=f"https://t.me/+fVXKWAhYmNs4Nzg1"),
                         ],
                     ],
                 )
