@@ -5,7 +5,7 @@ beautifulsoup4==4.13.3
 bing_image_downloader==1.1.2
 bleach==6.2.0
 bs4==0.0.2
-cachetools==4.2.2
+cachetools==5.5.2
 countryinfo==0.1.2
 currencyconverter==0.18.3
 dateparser==1.2.1
