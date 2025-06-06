@@ -78,7 +78,7 @@ PM_START_TEXT = """
 *๏ ɢᴀ ᴀᴅᴀ ʏᴀɴɢ sᴘᴇsɪᴀʟ sᴀᴍᴀ ᴀᴊᴀ ᴋᴇᴋ ʙᴏᴛ ᴍᴜsɪᴄ ʟᴀᴇɴ*
 *๏ ʙᴏᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ᴅᴀɴ ᴍᴇᴍᴜᴛᴀʀ ᴍᴜꜱɪᴄ ᴅɪɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴇʀʙᴀɢᴀɪ ꜰɪᴛᴜʀ*
 ─────────────────
-*๏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👑: @OwnerTrum*
+*๏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👑: @IyaLek*
 ─────────────────
 *๏ ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇᴛᴀʜᴜɪ ᴍᴏᴅᴜʟ ᴅᴀɴ ᴄᴏᴍᴍᴀɴᴅꜱ ⚠️*
 """
@@ -94,7 +94,7 @@ buttons = [
         InlineKeyboardButton(text="ᴅᴏɴᴀsɪ 💸", callback_data="fallen_"),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 📩", url=f"https://t.me/+hnWGxsa2a65lZmZl"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 📩", url=f"https://t.me/+-eco0zKCmlpmZGJl"),
     ],
 ]
 
@@ -209,7 +209,7 @@ def start(update: Update, context: CallbackContext):
     else:
         update.effective_message.reply_photo(
             START_IMG,
-            caption="ᴛʀᴜᴍ ʙᴏᴛ ᴀᴋᴛɪᴘ🔥 !\n<b>ᴀᴋᴛɪᴘ ᴅᴀʀɪ​:</b> <code>{}</code>".format(
+            caption="sʏᴀᴀᴀ ʙᴏᴛ ᴀᴋᴛɪᴘ🔥 !\n<b>ᴀᴋᴛɪᴘ ᴅᴀʀɪ​:</b> <code>{}</code>".format(
                 uptime
                 
             ),
@@ -352,7 +352,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="ᴛʀᴜᴍ", url=f"https://t.me/ownertrum",
+                            text="sʏᴀᴀᴀ", url=f"https://t.me/IyaLek",
                         ),
                     ],
                     [
@@ -369,15 +369,15 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/SECRETMGM"),
+                        InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/+yKQn_fb1vr9jZDZh"),
                     ],
                     [
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs", url=f"https://t.me/+qM6mpY-Qz7NmMDk9"),
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ʟᴏɴᴇʟʏ", url=f"https://t.me/+glOSAR5syghmYzJl"),
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs", url=f"https://t.me/+-eco0zKCmlpmZGJl"),
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠ𝟸 ", url=f"https://t.me/+2JiUgQfc7qw0YjU9"),
                     ],
                     [
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴄʜᴀᴛ", url=f"https://t.me/+XFYuAXtiT-syYzVl"),
-                        InlineKeyboardButton(text="sʟᴏᴛ ɢᴀᴄᴏʀ", url=f"https://t.me/+hxgwBShOa5BhYWI1"),
+                        InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟷", url=f"https://t.me/+IFYPzq29u6QyODI5"),
+                        InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟸", url=f"https://t.me/+PWfcZFm6nKEwNmQx"),
                     ],
                     [
                         InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ", callback_data="fallen_back"),
@@ -400,7 +400,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=f"""*๏ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴀᴅᴀʟᴀʜ ʙᴇʙᴇʀᴀᴘᴀ ᴍᴏᴅᴜʟᴇ / ᴘᴇʀɪɴᴛᴀʜ ʙᴏᴛ ᴍᴜsɪᴄ + ᴍᴀɴᴀɢᴇ ᴛʀᴜᴍ.*""",
+            text=f"""*๏ ᴅɪʙᴀᴡᴀʜ ɪɴɪ ᴀᴅᴀʟᴀʜ ʙᴇʙᴇʀᴀᴘᴀ ᴍᴏᴅᴜʟᴇ / ᴘᴇʀɪɴᴛᴀʜ ʙᴏᴛ ᴍᴜsɪᴄ + ᴍᴀɴᴀɢᴇ sʏᴀᴀᴀ.*""",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
@@ -693,13 +693,13 @@ def main():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/ownertrum"),
+                            InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/IyaLek"),
                         ],
                         [
-                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ", url=f"https://t.me/+hnWGxsa2a65lZmZl"),
+                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟷", url=f"https://t.me/+IFYPzq29u6QyODI5"),
                         ],
                         [
-                            InlineKeyboardButton(text="ᴠᴠɪᴘ ʙᴏᴋᴇᴘ", url=f"https://t.me/+fVXKWAhYmNs4Nzg1"),
+                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟸", url=f"https://t.me/+PWfcZFm6nKEwNmQx"),
                         ],
                     ],
                 )
