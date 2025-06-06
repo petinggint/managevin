@@ -22,15 +22,15 @@ class Config(object):
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
-    OWNER_ID = 7834641788  # User id of your telegram account (Must be integer)
+    OWNER_ID = 6364520406  # User id of your telegram account (Must be integer)
 
     # Optional fields
-    BL_CHATS = [7834641788]  # List of groups that you want blacklisted.
-    DRAGONS = [7834641788]  # User id of sudo users
-    DEV_USERS = [7834641788]  # User id of dev users
-    DEMONS = [7834641788]  # User id of support users
-    TIGERS = [7834641788]  # User id of tiger users
-    WOLVES = [7834641788]  # User id of whitelist users
+    BL_CHATS = [6364520406]  # List of groups that you want blacklisted.
+    DRAGONS = [6364520406]  # User id of sudo users
+    DEV_USERS = [6364520406]  # User id of dev users
+    DEMONS = [6364520406]  # User id of support users
+    TIGERS = [6364520406]  # User id of tiger users
+    WOLVES = [6364520406]  # User id of whitelist users
 
     ALLOW_CHATS = True
     ALLOW_EXCL = True
