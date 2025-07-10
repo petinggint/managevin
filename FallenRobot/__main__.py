@@ -78,7 +78,7 @@ PM_START_TEXT = """
 *๏ ɢᴀ ᴀᴅᴀ ʏᴀɴɢ sᴘᴇsɪᴀʟ sᴀᴍᴀ ᴀᴊᴀ ᴋᴇᴋ ʙᴏᴛ ᴍᴜsɪᴄ ʟᴀᴇɴ*
 *๏ ʙᴏᴛ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇʟᴏʟᴀ ᴅᴀɴ ᴍᴇᴍᴜᴛᴀʀ ᴍᴜꜱɪᴄ ᴅɪɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴇɴɢᴀɴ ʙᴇʀʙᴀɢᴀɪ ꜰɪᴛᴜʀ*
 ─────────────────
-*๏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👑: @IyaLek*
+*๏ ᴅᴇᴠᴇʟᴏᴘᴇʀ 👑: @SyaaaAllWeb*
 ─────────────────
 *๏ ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ᴍᴇɴɢᴇᴛᴀʜᴜɪ ᴍᴏᴅᴜʟ ᴅᴀɴ ᴄᴏᴍᴍᴀɴᴅꜱ ⚠️*
 """
@@ -94,7 +94,7 @@ buttons = [
         InlineKeyboardButton(text="ᴅᴏɴᴀsɪ 💸", callback_data="fallen_"),
     ],
     [
-        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 📩", url=f"https://t.me/+-eco0zKCmlpmZGJl"),
+        InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 📩", url=f"https://t.me/+euvu3DRhDzc0MjBl"),
     ],
 ]
 
@@ -352,7 +352,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sʏᴀᴀᴀ", url=f"https://t.me/IyaLek",
+                            text="sʏᴀᴀᴀ", url=f"https://t.me/SyaaaAllWeb",
                         ),
                     ],
                     [
@@ -369,15 +369,14 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/+yKQn_fb1vr9jZDZh"),
+                        InlineKeyboardButton(text="ᴏғғɪᴄɪᴀʟ sᴇᴄʀᴇᴛ", url=f"https://t.me/OFFICIALSYAAA"),
                     ],
                     [
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs", url=f"https://t.me/+-eco0zKCmlpmZGJl"),
-                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠ𝟸 ", url=f"https://t.me/+2JiUgQfc7qw0YjU9"),
+                        InlineKeyboardButton(text="ᴍɪᴅɴɪɢʜᴛ sᴇx", url=f"https://t.me/+euvu3DRhDzc0MjBl"),
+                        InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs ", url=f"https://t.me/+Cl_GM3Jqb84zMmY1"),
                     ],
                     [
-                        InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟷", url=f"https://t.me/+IFYPzq29u6QyODI5"),
-                        InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟸", url=f"https://t.me/+PWfcZFm6nKEwNmQx"),
+                        InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟷", url=f"https://t.me/+KcF5kero4MFmYjE1"),
                     ],
                     [
                         InlineKeyboardButton(text="ᴋᴇᴍʙᴀʟɪ", callback_data="fallen_back"),
@@ -693,13 +692,13 @@ def main():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/IyaLek"),
+                            InlineKeyboardButton(text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url=f"https://t.me/SyaaaAllWeb"),
                         ],
                         [
-                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟷", url=f"https://t.me/+IFYPzq29u6QyODI5"),
+                            InlineKeyboardButton(text="ᴍɪᴅɴɪɢʜᴛ sᴇx", url=f"https://t.me/+euvu3DRhDzc0MjBl"),
                         ],
                         [
-                            InlineKeyboardButton(text="ᴀsᴜᴘᴀɴ ʙᴏᴋᴇᴘ 𝟸", url=f"https://t.me/+PWfcZFm6nKEwNmQx"),
+                            InlineKeyboardButton(text="sᴇᴄʀᴇᴛ ᴠɪʙᴇs", url=f"https://t.me/+Cl_GM3Jqb84zMmY1"),
                         ],
                     ],
                 )
