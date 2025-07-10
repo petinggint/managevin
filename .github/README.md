@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴄᴀʟᴠɪɴ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 」──
+    ──「 syaaa ᴍᴀɴᴀɢᴇᴍᴇɴᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/pp9026.jpg">
+  <img src="https://files.catbox.moe/2k6n64.jpg">
 </p>
 
 **_Available on Telegram as [@CalvinAiRobot](https://t.me/CalvinAiRobot)_**
@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://files.catbox.moe/pp9026.jpg">
+  <img src="https://files.catbox.moe/2k6n64.jpg">
 </p>
 
 </details>
@@ -76,10 +76,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/UcalMeVin"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/syaaaallweb"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/InfoRobotCalvin"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+euvu3DRhDzc0MjBl"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
