@@ -13,7 +13,7 @@ async def awake(_, message: Message):
     TEXT += f"» ᴅᴇᴠᴇʟᴏᴘᴇʀ : [sʏᴀᴀᴀ](tg://user?id={OWNER_ID})\n━━━━━━━━━━━━━\n\nsɪʟᴀʜᴋᴀɴ ᴊᴏɪɴ ɢʀᴏᴜᴘ ᴅᴀɴ sᴜᴘᴘᴏʀᴛ ᴋᴀᴍɪ ᴜɴᴛᴜᴋ ɪᴊɪɴ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴏᴛ ɪɴɪ."
     BUTTON = [
         [
-            InlineKeyboardButton("sʏᴀᴀᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ", url=f"https://t.me/+yKQn_fb1vr9jZDZh"),
+            InlineKeyboardButton("sʏᴀᴀᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ", url=f"https://t.me/OFFICIALSYAAA"),
         ],
     ]
     await message.reply_photo(
