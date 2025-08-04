@@ -6,7 +6,7 @@
   <img src="https://files.catbox.moe/2k6n64.jpg">
 </p>
 
-**_Available on Telegram as [@CalvinAiRobot](https://t.me/CalvinAiRobot)_**
+**_Available on Telegram as [@BerlinMusicRobot](https://t.me/BerlinMusicRobot)_**
 
 <p align="center">
 <a href="https://github.com/petinggint/managevin/stargazers"><img src="https://img.shields.io/github/stars/petinggint/managevin?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://files.catbox.moe/2k6n64.jpg">
+  <img src="https://files.catbox.moe/xm5wlr.jpg">
 </p>
 
 </details>
@@ -76,10 +76,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/syaaaallweb"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Berlinyxz"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://t.me/+euvu3DRhDzc0MjBl"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+-Qexi06Q0qRhNDFh"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
